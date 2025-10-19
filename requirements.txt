@@ -1,7 +1,5 @@
 streamlit==1.24.1
-pandas
-openpyxl
-pdfplumber
-pdf2image
-pytesseract
-fpdf
+pandas==2.3.3
+fpdf==1.7.2
+PyMuPDF==1.22.5
+easyocr==1.6.2
