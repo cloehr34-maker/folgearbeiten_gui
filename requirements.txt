@@ -1,0 +1,7 @@
+streamlit==1.24.1
+pandas
+openpyxl
+pdfplumber
+pdf2image
+pytesseract
+fpdf
